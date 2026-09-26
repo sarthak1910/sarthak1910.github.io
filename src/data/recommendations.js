@@ -30,4 +30,17 @@ export const recommendations = [
       'I would definitely recommend Sarthak to anyone looking for a skilled and dependable full stack / Native developer.',
     ],
   },
+  {
+    name: 'Kanav Khera',
+    initials: 'KK',
+    headline:
+      'Building AI-Native Mobile Experiences | Building Scalable & High-Performance Web & Mobile Apps | Immediate Joiner',
+    relationship: 'Managed Sarthak directly',
+    date: 'September 24, 2026',
+    body: [
+      "I've had the opportunity to work with Sarthak and have been consistently impressed by his professionalism, dedication, and willingness to learn. He is a collaborative team member who approaches challenges with a positive attitude and takes ownership of his work.",
+      'His ability to communicate effectively and work well with others makes him a valuable asset to any team.',
+      'I would gladly recommend Sarthak to anyone looking for a reliable and talented professional.',
+    ],
+  },
 ];
