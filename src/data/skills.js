@@ -41,6 +41,19 @@ export const skillGroups = [
     ],
   },
   {
+    title: 'AI & LLM',
+    icon: 'ai',
+    skills: [
+      { name: 'Retrieval-Augmented Generation (RAG)', level: 'working' },
+      { name: 'Spring AI', level: 'working' },
+      { name: 'OpenAI Embeddings', level: 'working' },
+      { name: 'Vector Search', level: 'working' },
+      { name: 'pgvector', level: 'working' },
+      { name: 'Document Chunking', level: 'working' },
+      { name: 'Streaming Responses (SSE)', level: 'working' },
+    ],
+  },
+  {
     title: 'Mobile',
     icon: 'mobile',
     skills: [

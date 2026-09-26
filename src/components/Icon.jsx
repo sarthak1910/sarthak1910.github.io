@@ -104,6 +104,14 @@ const paths = {
       <path d="M9.5 2.5v3.5M14.5 2.5v3.5M9.5 18v3.5M14.5 18v3.5M2.5 9.5H6M2.5 14.5H6M18 9.5h3.5M18 14.5h3.5" />
     </>
   ),
+  ai: (
+    <>
+      <circle cx="12" cy="5" r="2" />
+      <circle cx="5" cy="19" r="2" />
+      <circle cx="19" cy="19" r="2" />
+      <path d="M12 7v4M12 11 6.5 17M12 11l5.5 6" />
+    </>
+  ),
   mic: (
     <>
       <rect x="9" y="2" width="6" height="12" rx="3" />
